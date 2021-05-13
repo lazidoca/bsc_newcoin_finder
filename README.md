@@ -1,4 +1,4 @@
-# Shitcoin finder
+# New BSC token finder
 
 ## Installation
 
