@@ -1,6 +1,7 @@
 import json
 import os
 import traceback
+import webbrowser
 from itertools import cycle
 from random import choice, uniform
 from time import sleep
